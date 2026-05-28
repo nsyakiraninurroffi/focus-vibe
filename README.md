@@ -1,16 +1,19 @@
-# React + Vite
+# ⏳ Focus Vibe.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Aesthetic Pomodoro timer for deep work. Project simple React tanpa API yang murni menggunakan *state management* dengan balutan UI *glassmorphism*.
 
-Currently, two official plugins are available:
+## ✨ Features
+- **Aesthetic UI/UX**: Clean, frosted-glass design (Glassmorphism).
+- **Dynamic Backgrounds**: Smooth transition between focus and break modes.
+- **Zero Dependencies**: Pure React state management without APIs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
+- React + Vite
+- Vanilla CSS (Glassmorphism & Keyframe Animations)
 
-## React Compiler
+## 🚀 How to Run Locally
+1. Clone this repository
+2. Run `npm install`
+3. Run `npm run dev`
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*Coded by [@nsyakiraninurroffi](https://github.com/nsyakiraninurroffi)*
